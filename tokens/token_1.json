@@ -3,6 +3,6 @@
   "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
   "external_url": "string",
   "image": "https://image.shutterstock.com/image-vector/warranty-certificate-vector-illustration-complex-600w-288631865.jpg",
-  "contract_address": "", // react avanzado
-  "token_id": 0
+  "contract_address": "0xF35188203431316BA0f438F113F30DfaCF441918",
+  "token_id": 1
 }

@@ -1,8 +1,7 @@
 {
-  "name": "Diploma de Pepito Gomez",
+  "name": "Diploma de Pepito Gomez - CSS Grid",
   "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
   "external_url": "string",
   "image": "https://image.shutterstock.com/image-vector/certificate-diploma-print-vector-600w-109228424.jpg",
-  "contract_address": "", // react avanzado
   "token_id": 0
 }

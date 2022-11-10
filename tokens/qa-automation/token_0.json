@@ -1,8 +1,8 @@
 {
-  "name": "Diploma de Juanita Perez",
+  "name": "Diploma de Juanita Perez - QA Automation",
   "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
   "external_url": "string",
   "image": "https://image.shutterstock.com/image-vector/certificate-template-printable-editable-design-600w-1090897754.jpg",
-  "contract_address": "", // QA
+  "contract_address": "0xB2941fAA0aaCbeED7501FBb61c3B4CF40D002e4b",
   "token_id": 0
 }
